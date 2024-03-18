@@ -4,8 +4,6 @@
 	export let data: PageData;
 </script>
 
-<MortiseCode />
-
 <div class="text-center text-sm text-neutral-400 my-5">
 	Filtering by:
 	<a
