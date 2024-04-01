@@ -7,11 +7,7 @@
 		</p>
 		<p class="text-neutral-400 text-right">
 			Built with
-			<a
-				href="https://kit.svelte.com"
-				alt="SvelteKit Landing Page"
-				target="_blank"
-				class="hover:text-goldbrush-500">SvelteKit</a
+			<a href="https://kit.svelte.dev" target="_blank" class="hover:text-goldbrush-500">SvelteKit</a
 			>
 		</p>
 	</div>

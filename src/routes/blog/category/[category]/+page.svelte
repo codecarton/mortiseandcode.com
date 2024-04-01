@@ -8,7 +8,6 @@
 	Filtering by:
 	<a
 		href="/blog"
-		alt="Blog Index"
 		class="
     px-2
     py-1
