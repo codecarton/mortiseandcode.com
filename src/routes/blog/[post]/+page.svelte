@@ -25,17 +25,17 @@
 </script>
 
 <svelte:head>
-	<title>{title} by Jordan Calhoun</title>
+	<title>{title} - Mortise & Code</title>
 	<meta data-key="description" name="description" content={excerpt} />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content={title} />
 	<meta name="twitter:title" content={title} />
 	<meta property="og:description" content={excerpt} />
 	<meta name="twitter:description" content={excerpt} />
-	<meta property="og:image" content="https://jordancalhoun.com/images/blog/{coverImage}" />
+	<meta property="og:image" content="https://mortiseandcode.com/images/blog/{coverImage}" />
 	<meta property="og:image:width" content={coverWidth} />
 	<meta property="og:image:height" content={coverHeight} />
-	<meta name="twitter:image" content="https://jordancalhoun.com/images/blog/{coverImage}" />
+	<meta name="twitter:image" content="https://mortiseandcode.com/images/blog/{coverImage}" />
 </svelte:head>
 
 <!-- TODO: Implement Share Actions -->
