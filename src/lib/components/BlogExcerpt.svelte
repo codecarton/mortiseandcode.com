@@ -22,7 +22,7 @@
     mt-2
     inline-block
     text-sm
-    hover:text-pink-900
+    hover:text-goldbrush-900
     "
 	>
 		Read More &#8250;
