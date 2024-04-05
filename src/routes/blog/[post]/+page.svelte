@@ -31,7 +31,10 @@
 	<meta name="twitter:creator" content="@jordancalhoun" />
 	<meta name="twitter:title" content={title} />
 	<meta name="twitter:description" content={excerpt} />
-	<meta name="twitter:image" content="https://mortiseandcode.com/images/blog/{coverImage}" />
+	<meta
+		name="twitter:image"
+		content="https://mortiseandcode.com/images/blog/twitter/{coverImage}"
+	/>
 	<meta data-key="description" name="description" content={excerpt} />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content={title} />

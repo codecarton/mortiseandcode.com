@@ -6,7 +6,7 @@ date: '2024-04-05'
 categories:
   - 'health'
   - 'habits'
-coverImage: 'bury-bad-habits.png'
+coverImage: 'bury-bad-habits.jpg'
 coverWidth: 16
 coverHeight: 9
 coverPhotoCredited: true
