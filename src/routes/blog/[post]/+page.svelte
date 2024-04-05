@@ -27,7 +27,6 @@
 <svelte:head>
 	<title>{title} - Mortise & Code</title>
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:site" content="@codecarton" />
 	<meta name="twitter:creator" content="@jordancalhoun" />
 	<meta name="twitter:title" content={title} />
 	<meta name="twitter:description" content={excerpt} />
@@ -38,13 +37,10 @@
 	<meta data-key="description" name="description" content={excerpt} />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content={title} />
-	<meta name="twitter:title" content={title} />
 	<meta property="og:description" content={excerpt} />
-	<meta name="twitter:description" content={excerpt} />
 	<meta property="og:image" content="https://mortiseandcode.com/images/blog/{coverImage}" />
 	<meta property="og:image:width" content={coverWidth} />
 	<meta property="og:image:height" content={coverHeight} />
-	<meta name="twitter:image" content="https://mortiseandcode.com/images/blog/{coverImage}" />
 </svelte:head>
 
 <!-- TODO: Implement Share Actions -->
