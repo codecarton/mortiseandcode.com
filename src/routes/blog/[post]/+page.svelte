@@ -26,6 +26,12 @@
 
 <svelte:head>
 	<title>{title} - Mortise & Code</title>
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@codecarton" />
+	<meta name="twitter:creator" content="@jordancalhoun" />
+	<meta name="twitter:title" content={title} />
+	<meta name="twitter:description" content={excerpt} />
+	<meta name="twitter:image" content="https://mortiseandcode.com/images/blog/{coverImage}" />
 	<meta data-key="description" name="description" content={excerpt} />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content={title} />
