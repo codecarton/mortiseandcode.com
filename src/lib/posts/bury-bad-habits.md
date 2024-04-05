@@ -1,6 +1,6 @@
 ---
 active: true
-title: 'Bury Bad Habits'
+title: 'It's time to bury bad habits in a ditch'
 date: '2024-04-05'
 #updated: ''
 categories:
