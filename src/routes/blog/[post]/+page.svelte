@@ -42,10 +42,8 @@
 		name="twitter:image"
 		content="https://mortiseandcode.com/images/blog/twitter/{coverImage}"
 	/>
-	<meta
-		name="twitter:Image"
-		content="https://mortiseandcode.com/images/blog/twitter/{coverImage}"
-	/>
+	<meta property="og:twitter:width" content={coverWidth} />
+	<meta property="og:twitter:height" content={coverHeight} />
 </svelte:head>
 
 <!-- TODO: Implement Share Actions -->
