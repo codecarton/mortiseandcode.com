@@ -98,12 +98,5 @@
       "title": "posts",
       "path": "[[workspace]]/src/lib/posts"
     }
-  ],
-  "frontMatter.taxonomy.tags": [],
-  "frontMatter.taxonomy.categories": [
-    "addiction",
-    "annual review",
-    "goals",
-    "productivity"
   ]
 }
