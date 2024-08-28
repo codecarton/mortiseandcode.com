@@ -3,26 +3,32 @@
 
 	let goals: Goal[] = [
 		{
-			title: 'Release One16 - Woodworking Calculator 2.2.0',
+			title: 'Release One16 - Woodworking Calculator v2.2.0',
 			date: 'Jul 9, 2024',
 			ontrack: true,
 			completed: true
 		},
 		{
-			title: 'Release One16 - Woodworking Calculator 2.0',
+			title: 'Release One16 - Woodworking Calculator v2.0',
 			date: 'Mar 3, 2024',
 			ontrack: true,
 			completed: true
 		},
 		{
-			title: 'Release One16 - Woodworking Calculator 1.0',
+			title: 'Release One16 - Woodworking Calculator v1.0',
 			date: 'Mar 31, 2023',
 			ontrack: true,
 			completed: true
 		},
 		{
-			title: 'Release Ditches - Bury Bad Habits Beta',
-			date: 'July 31, 2024',
+			title: 'Release Ditches - Bury Bad Habits v1.0',
+			date: 'Aug 26, 2024',
+			ontrack: true,
+			completed: true
+		},
+		{
+			title: 'App#3 MVP',
+			date: 'Sept 31, 2024',
 			ontrack: true,
 			completed: false
 		}
